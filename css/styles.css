@@ -1,0 +1,29 @@
+
+.titulo{
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+.container{
+    
+}
+.imagen{
+    margin-right: 30.38px;
+}
+.seccion1{
+  list-style-type: none;
+  display: flex;
+}
+
+.seccion2{
+    list-style-type: none;
+    display: flex;
+    width: 374.74px;
+}
+.seccion3{
+    list-style-type: none;
+    display: flex;
+}
